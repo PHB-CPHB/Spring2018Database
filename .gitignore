@@ -1,3 +1,13 @@
+# KeyValueStoreExercise
+KeyValueStoreExercise/KeyValueStoreExe/build.xml
+KeyValueStoreExercise/KeyValueStoreExe/manifest.mf
+KeyValueStoreExercise/KeyValueStoreExe/nbproject/*
+KeyValueStoreExercise/KeyValueStoreExe/build/*
+KeyValueStoreExercise/KeyValueStoreExe/nbbuild/*
+KeyValueStoreExercise/KeyValueStoreExe/dist/*
+
+*.DS_Store
+
 # Compiled class file
 *.class
 
