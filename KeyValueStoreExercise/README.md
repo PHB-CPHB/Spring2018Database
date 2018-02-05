@@ -1,7 +1,7 @@
 # Key Store Value Exercise
 
 ## Instalation
-In order for you to use this program/files you need to colne the entire project called Spring2018Database this can only be done at the[Main Page](https://github.com/philliphb/Spring2018Database)
+In order for you to use this program/files you need to colne the entire project called Spring2018Database this can only be done at the [Main Page](https://github.com/philliphb/Spring2018Database)
 
 You can also just down the two files main.java and Connect.java by following this [Link](https://github.com/philliphb/Spring2018Database/tree/master/KeyValueStoreExercise/KeyValueStoreExe/src/keyvaluestoreexe) or go through the folders.
 
